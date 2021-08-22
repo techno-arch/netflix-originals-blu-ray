@@ -1,3 +1,5 @@
+list of netflix orignal shows that have home media releses 
+
 ## Live Action Shows
 | Name | Season | Format | region |
 |-----------	|------------  | -------------| ---------|
