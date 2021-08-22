@@ -35,14 +35,14 @@
 | [Dragon Pilot: Hisone and Masotan](https://www.imdb.com/title/tt1312171) | 1 | DVD/Bluray | JP |
 | [Drifting Dragons](https://www.imdb.com/title/tt1312171)                 | 1 | DVD/Bluray | JP |
 | [Edens Zero](https://www.imdb.com/title/tt1312171)                       | 1 | DVD/Bluray | JP |
-| [Cannon Busters](https://www.imdb.com/title/tt1312171) | 1 | DVD/Bluray | USA/UK |
-| [Cannon Busters](https://www.imdb.com/title/tt1312171) | 1 | DVD/Bluray | USA/UK |
-| [Cannon Busters](https://www.imdb.com/title/tt1312171) | 1 | DVD/Bluray | USA/UK |
-| [Cannon Busters](https://www.imdb.com/title/tt1312171) | 1 | DVD/Bluray | USA/UK |
-| [Cannon Busters](https://www.imdb.com/title/tt1312171) | 1 | DVD/Bluray | USA/UK |
-| [Cannon Busters](https://www.imdb.com/title/tt1312171) | 1 | DVD/Bluray | USA/UK |
-| [Cannon Busters](https://www.imdb.com/title/tt1312171) | 1 | DVD/Bluray | USA/UK |
-| [Cannon Busters](https://www.imdb.com/title/tt1312171) | 1 | DVD/Bluray | USA/UK |
-| [Cannon Busters](https://www.imdb.com/title/tt1312171) | 1 | DVD/Bluray | USA/UK |
-| [Cannon Busters](https://www.imdb.com/title/tt1312171) | 1 | DVD/Bluray | USA/UK |
-| [Cannon Busters](https://www.imdb.com/title/tt1312171) | 1 | DVD/Bluray | USA/UK |
+| [Fate/Apocrypha](https://www.imdb.com/title/tt1312171)                   | 1 | DVD/Bluray | USA/UK |
+| [Fate/Extra](https://www.imdb.com/title/tt1312171)                       | 1 | DVD/Bluray | USA/UK |
+| [Forest of Piano](https://www.imdb.com/title/tt1312171)                  | 1 | DVD/Bluray | USA/UK |
+| [Ghost in the Shell: SAC 2045](https://www.imdb.com/title/tt1312171)     | 1 | DVD/Bluray | USA/UK |
+| [Great Pretender](https://www.imdb.com/title/tt1312171)                  | 1 | DVD/Bluray | USA/UK |
+| [Hero Mask](https://www.imdb.com/title/tt1312171)                        | 1 | DVD/Bluray | USA/UK |
+| [Hi Score Girl](https://www.imdb.com/title/tt1312171)                    | 1 | DVD/Bluray | USA/UK |
+| [High-Rise Invasion](https://www.imdb.com/title/tt1312171)               | 1 | DVD/Bluray | USA/UK |
+| [ID-0](https://www.imdb.com/title/tt1312171)                             | 1 | DVD/Bluray | USA/UK |
+| [Ingress](https://www.imdb.com/title/tt1312171)                          | 1 | DVD/Bluray | USA/UK |
+| [Japan Sinks 2020](https://www.imdb.com/title/tt1312171)                 | 1 | DVD/Bluray | USA/UK |
