@@ -26,7 +26,7 @@ list of netflix orignal shows that have home media releses
 | [B: The Beginning](https://www.imdb.com/title/tt7944664)                    | 1-2 | DVD/Bluray | USA/JP/UK |
 | [Back Street Girls](https://www.imdb.com/title/tt8693818)                   | 1 | DVD/Bluray | JP |
 | [Baki the Grappler](https://www.imdb.com/title/tt6357658)                   | 1-3 | DVD/Bluray | USA/JP |
-| [Beastars](https://www.imdb.com/title/tt11043632)                           | 1 | DVD/Bluray | JP |
+| [Beastars](https://www.imdb.com/title/tt11043632)                           | 1-2 | DVD/Bluray | JP |
 | [BNA: Brand New Animal](https://www.imdb.com/title/tt12013558)              | 1 | DVD/Bluray | JP |
 | [Cagaster of an Insect Cage](https://www.imdb.com/title/tt9288892)          | 1 | DVD/Bluray | USA/JP |
 | [Carole & Tuesday](https://www.imdb.com/title/tt8107988)                    | 1 | DVD/Bluray | JP |
