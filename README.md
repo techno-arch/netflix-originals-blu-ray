@@ -20,10 +20,10 @@ list of netflix orignal shows that have home media releses
 | Name | Season | Format | region |
 |-----------	|------------  | -------------| ---------|
 | [7 Seeds ](https://www.imdb.com/title/tt9348718)                            | 1-2 | DVD/Buray | USA/JP |
-| [A.I.C.O](https://www.imdb.com/title/tt8116380)                             | 1-2 | DVD/Bluray | JP |
+| [A.I.C.O](https://www.imdb.com/title/tt8116380)                             | 1 | DVD/Bluray | JP |
 | [Aggretsuko](https://www.imdb.com/title/tt8019444)                          | 1-2 | DVD/Bluray | JP |
 | [Ajin: Demi-Human](https://www.imdb.com/title/tt5537534)                    | 1-2 | DVD/Bluray | USA/JP/UK |
-| [B: The Beginning](https://www.imdb.com/title/tt7944664)                    | 1-2 | DVD/Bluray | USA/JP/UK |
+| [B: The Beginning](https://www.imdb.com/title/tt7944664)                    | 1 | DVD/Bluray | USA/JP/UK |
 | [Back Street Girls](https://www.imdb.com/title/tt8693818)                   | 1 | DVD/Bluray | JP |
 | [Baki the Grappler](https://www.imdb.com/title/tt6357658)                   | 1-3 | DVD/Bluray | USA/JP |
 | [Beastars](https://www.imdb.com/title/tt11043632)                           | 1-2 | DVD/Bluray | JP |
