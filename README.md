@@ -46,3 +46,4 @@ list of netflix orignal shows that have home media releses
 | [ID-0](https://www.imdb.com/title/tt7161218)                                | 1 | DVD/Bluray | JP |
 | [Ingress](https://www.imdb.com/title/tt9561968)                             | 1 | DVD/Bluray | JP |
 | [Japan Sinks 2020](https://www.imdb.com/title/tt12031040)                   | 1 | DVD/Bluray | JP |
+| [Kakegurui](https://www.imdb.com/title/tt7131720/)                          | 1 | DVD/Bluray | USA/UK/JP |
